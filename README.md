@@ -6,4 +6,4 @@
 ⚙️ CLI over GUI \
 🔒 CTF Hobbyist (PicoCTF) \
 🌱 Always learning \
-📫 You can reach me via email: m.muneeb.pervez@gmail.com \
+📫 You can reach me via email: m.muneeb.pervez@gmail.com

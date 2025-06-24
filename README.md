@@ -1,4 +1,4 @@
-## Hi there, I am Muneeb 👋
+## Hi there, I'm Muneeb 👋
 
 🧑‍💻 CS Junior at LUMS with a Biology Minor \
 🧠 Cybersecurity Enthusiast dabbling in Computer Vision \
